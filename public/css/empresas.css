@@ -1,0 +1,22 @@
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid blue;
+  padding: 3px 5px;
+}
+
+th {
+  background-color: navy;
+  color: white;
+}
+
+tr:nth-child(odd) {
+  background-color: lightblue;
+}
+
+tr.marcada {
+  background-color: yellow;
+  font-weight: bold;
+}

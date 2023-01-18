@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "name": "Cellectar Biosciences, Inc.",
+        "industry": "Major Pharmaceuticals",
+        "sector": "Health Care",
+        "capital": "72.61"
+    },
+    {
+        "id": 2,
+        "name": "Wright Medical Group N.V.",
+        "industry": "industryl Specialties",
+        "sector": "Health Care",
+        "capital": "2.73"
+    },
+    {
+        "id": 3,
+        "name": "American Axle & Manufacturing Holdings, Inc.",
+        "industry": "Auto Parts:O.E.M.",
+        "sector": "Capital Goods",
+        "capital": "1.62"
+    },
+    {
+        "id": 4,
+        "name": "Red Lion Hotels Corporation",
+        "industry": "Hotels/Resorts",
+        "sector": "Consumer Services",
+        "capital": "145.96"
+    },
+    {
+        "id": 6,
+        "name": "Azul S.A.",
+        "industry": "Air Freight/Delivery Services",
+        "sector": "Transportation",
+        "capital": "6.42"
+    },
+    {
+        "id": 7,
+        "name": "Endeavour Silver Corporation",
+        "industry": "Precious Metals",
+        "sector": "Basic Industries",
+        "capital": "370.33"
+    },
+    {
+        "id": 9,
+        "name": "X-Links Gold Shares Covered Call ETN",
+        "industry": "Investment Bankers/Brokers/Service",
+        "sector": "Finance",
+        "capital": "126.29"
+    },
+    {
+        "id": 21,
+        "name": "Tyson Foods, Inc.",
+        "industry": "Meat/Poultry/Fish",
+        "sector": "Consumer Non-Durables",
+        "capital": "22.07"
+    },
+    {
+        "id": 22,
+        "name": "Neos Therapeutics, Inc.",
+        "industry": "Major Pharmaceuticals",
+        "sector": "Health Care",
+        "capital": "195.15"
+    },
+    {
+        "id": 26,
+        "name": "Ingevity Corporation",
+        "industry": "Major Chemicals",
+        "sector": "Basic Industries",
+        "capital": "2.41"
+    },
+    {
+        "id": 29,
+        "name": "Fanhua Inc.",
+        "industry": "Specialty Insurers",
+        "sector": "Finance",
+        "capital": "554.47"
+    },
+    {
+        "id": 30,
+        "name": "MidWestOne Financial Group, Inc.",
+        "industry": "Major Banks",
+        "sector": "Finance",
+        "capital": "437.4"
+    },
+    {
+        "id": 31,
+        "name": "Procter & Gamble name (The)",
+        "industry": "Package Goods/Cosmetics",
+        "sector": "Basic Industries",
+        "capital": "229.32"
+    },
+    {
+        "id": 33,
+        "name": "Ford Motor name",
+        "industry": "Auto Manufacturing",
+        "sector": "Capital Goods",
+        "capital": "44.68"
+    },
+    {
+        "id": 34,
+        "name": "Philip Morris International Inc",
+        "industry": "Farming/Seeds/Milling",
+        "sector": "Consumer Non-Durables",
+        "capital": "189.23"
+    },
+    {
+        "id": 35,
+        "name": "Enersys",
+        "industry": "Telecommunications Equipment",
+        "sector": "Consumer Non-Durables",
+        "capital": "3.35"
+    },
+    {
+        "id": 36,
+        "name": "X-Links Gold Shares Covered Call ETN",
+        "industry": "Investment Bankers/Brokers/Service",
+        "sector": "Finance",
+        "capital": "126.29"
+    },
+    {
+        "id": 37,
+        "name": "Sunesis Pharmaceuticals, Inc.",
+        "industry": "Major Pharmaceuticals",
+        "sector": "Health Care",
+        "capital": "59.23"
+    },
+    {
+        "id": 39,
+        "name": "Utah Medical Products, Inc.",
+        "industry": "Medical/Dental Instruments",
+        "sector": "Health Care",
+        "capital": "261.62"
+    },
+    {
+        "id": 40,
+        "name": "PACCAR Inc.",
+        "industry": "Auto Manufacturing",
+        "sector": "Capital Goods",
+        "capital": "22.91"
+    },
+    {
+        "id": 41,
+        "name": "Colony Bankcorp, Inc.",
+        "industry": "Major Banks",
+        "sector": "Finance",
+        "capital": "115.2"
+    },
+    {
+        "id": 42,
+        "name": "Farmers National Banc Corp.",
+        "industry": "Major Banks",
+        "sector": "Finance",
+        "capital": "395.17"
+    },
+    {
+        "id": 43,
+        "name": "Preformed Line Products name",
+        "industry": "Water Supply",
+        "sector": "Basic Industries",
+        "capital": "241.57"
+    },
+    {
+        "id": 44,
+        "name": "Boston Beer name, Inc. (The)",
+        "industry": "Beverages (Production/Distribution)",
+        "sector": "Consumer Non-Durables",
+        "capital": "1.64"
+    },
+    {
+        "id": 45,
+        "name": "TransUnion",
+        "industry": "Finance: Consumer Services",
+        "sector": "Finance",
+        "capital": "7.93"
+    },
+    {
+        "id": 46,
+        "name": "News Corporation",
+        "industry": "Newspapers/Magazines",
+        "sector": "Consumer Services",
+        "capital": "7.99"
+    },
+    {
+        "id": 47,
+        "name": "Petrobras Argentina S.A.",
+        "industry": "Oil & Gas Production",
+        "sector": "Energy",
+        "capital": "2.59"
+    },
+    {
+        "id": 48,
+        "name": "Rosetta Genomics Ltd.",
+        "industry": "Major Pharmaceuticals",
+        "sector": "Health Care",
+        "capital": "5.05"
+    },
+    {
+        "id": 49,
+        "name": "Dean Foods name",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Non-Durables",
+        "capital": "1.64"
+    }
+]

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="empresa">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/empresas.css">
+  <title>Empresas</title>  
+</head>
+
+<body>
+  <a href="contactos.html">Contactos</a>
+  <h1>EMPRESAS</h1>
+  <div>
+    <div class="">
+      <table id="companies">
+        <thead>
+          <tr>
+            <th name="id">id</th>
+            <th name="name">Nombre</th>
+            <th name="industry">Industria</th>
+            <th name="sector">Sector</th>
+            <th name="capital">Capital</th>
+            <th name="contacts">Contacts</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+
+    </div>
+    <p></p>
+    <div class="">
+      <form action="#" name="form_create">
+        <fieldset>
+          <legend>Nueva empresa</legend>
+          <p>
+            <label for="name">Nombre</label>
+            <input type="text" id="name" name="name">
+          </p>
+          <p>
+            <label for="industry">Industria</label>
+            <input type="text" id="industry" name="industry">
+          </p>
+          <p>
+            <label for="sector">Sector</label>
+            <input type="text" id="sector" name="sector">
+          </p>
+          <p>
+            <label for="capital">Capital</label>
+            <input type="number" id="capital" name="capital" step='0.01'>
+          </p>
+          <p>
+            <input type="submit" value="Crear empresa">
+          </p>
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  
+  <script src="js/empresas.js"></script>
+</body>
+
+</html>
