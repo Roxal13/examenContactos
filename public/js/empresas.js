@@ -129,5 +129,5 @@ function sortCompany(a, b) {
   if (a[localStorage.sortValue] > b[localStorage.sortValue]) {
     return 1;
   }
-  return 0
+  return 0;
 }
